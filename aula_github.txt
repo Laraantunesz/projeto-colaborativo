@@ -1,0 +1,2 @@
+Aqui vamos aprender primeiros passos de git hub
+git config --global user.name "Seu nome"
